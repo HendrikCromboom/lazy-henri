@@ -14,7 +14,7 @@ This little library is nothing more than just that...
 
 To use the library add the following line before your own JS script:
 
-`<script src="http://raw.githubusercontent.com/HendrikCromboom/lazy-henri/master/lazi-henri.js"></script>
+`<script src="http://raw.githubusercontent.com/HendrikCromboom/lazy-henri/master/lazi-henri.js"></script>`
 
 ### Goal
 
