@@ -10,6 +10,12 @@ This little library is nothing more than just that...
 
 ---
 
+### Use
+
+To use the library add the following line before your own JS script:
+
+`<script src="http://raw.githubusercontent.com/HendrikCromboom/lazy-henri/master/lazi-henri.js"></script>
+
 ### Goal
 
 To learn to create and use a library.
